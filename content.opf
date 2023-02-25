@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 18.0" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>cARTÃO DE VISITA DIGITAL PLIXEL</dc:title>
+		<dc:date>2023-02-25T15:54:32Z</dc:date>
+		<dc:language>pt-BR</dc:language>
+		<meta property="dcterms:modified">2023-02-25T15:54:32Z</meta>
+		<dc:identifier id="bookid">urn:uuid:c83641af-b1da-4b33-971a-f30be30078df</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">landscape</meta>
+		<meta property="rendition:spread">both</meta>
+	</metadata>
+	<manifest>
+		<item id="cART_O_DE_VISITA_DIGITAL_PLIXEL-1" href="cART_O_DE_VISITA_DIGITAL_PLIXEL-1.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" />
+		<item id="x10.png" href="image/10.png" media-type="image/png" />
+		<item id="x12.png" href="image/12.png" media-type="image/png" />
+		<item id="x14.png" href="image/14.png" media-type="image/png" />
+		<item id="x15.png" href="image/15.png" media-type="image/png" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x21.png" href="image/21.png" media-type="image/png" />
+		<item id="x23.png" href="image/23.png" media-type="image/png" />
+		<item id="x24.png" href="image/24.png" media-type="image/png" />
+		<item id="x25.png" href="image/25.png" media-type="image/png" />
+		<item id="x26.png" href="image/26.png" media-type="image/png" />
+		<item id="x28.png" href="image/28.png" media-type="image/png" />
+		<item id="x29.png" href="image/29.png" media-type="image/png" />
+		<item id="x31.png" href="image/31.png" media-type="image/png" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="x6.png" href="image/6.png" media-type="image/png" />
+		<item id="x7.png" href="image/7.png" media-type="image/png" />
+		<item id="x8.png" href="image/8.png" media-type="image/png" />
+		<item id="x9.png" href="image/9.png" media-type="image/png" />
+		<item id="Daniel-fundo-PlixePARACIRCULOSl.png" href="image/Daniel-fundo-PlixePARACIRCULOSl.png" media-type="image/png" />
+		<item id="Prancheta_1Cubos.png" href="image/Prancheta_1Cubos.png" media-type="image/png" />
+		<item id="Prancheta_1_c_pia_11Cubos.png" href="image/Prancheta_1_c_pia_11Cubos.png" media-type="image/png" />
+		<item id="Prancheta_1_c_pia_2Cubos.png" href="image/Prancheta_1_c_pia_2Cubos.png" media-type="image/png" />
+		<item id="Prancheta_1_c_pia_3Cubos.png" href="image/Prancheta_1_c_pia_3Cubos.png" media-type="image/png" />
+		<item id="Prancheta_1_c_pia_4Cubos.png" href="image/Prancheta_1_c_pia_4Cubos.png" media-type="image/png" />
+		<item id="Prancheta_1_c_pia_5Cubos.png" href="image/Prancheta_1_c_pia_5Cubos.png" media-type="image/png" />
+		<item id="Prancheta_1_c_pia_7Cubos.png" href="image/Prancheta_1_c_pia_7Cubos.png" media-type="image/png" />
+		<item id="Prancheta_1_c_pia_9Cubos.png" href="image/Prancheta_1_c_pia_9Cubos.png" media-type="image/png" />
+		<item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript" />
+	</manifest>
+	<spine>
+		<itemref idref="cART_O_DE_VISITA_DIGITAL_PLIXEL-1" />
+	</spine>
+</package>
